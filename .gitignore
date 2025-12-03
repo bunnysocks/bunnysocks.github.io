@@ -1,1 +1,5 @@
 public/
+venv/
+
+#Mac
+.DS_Store
