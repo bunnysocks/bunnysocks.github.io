@@ -9,7 +9,7 @@ katex = true
 
 Text can be **bold**, *italic*, ~~strikethrough~~, and ***~~all at the same time~~***.
 
-[Link to another page](@/demo/page.md).
+[Link to another page](@/contact/page.md).
 
 There should be whitespace between paragraphs[^1].
 
