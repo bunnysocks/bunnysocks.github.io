@@ -1,12 +1,9 @@
 +++
-authors = ["Looong Looong Man", "Alexander Maximilian Jonathan"]
-title = "Loooooong Loooooong Loooooong Loooooong Loooooong Man"
-description = "Pneumonoultramicroscopicsilicovolcanoconiosis supercalifragilisticexpialidocious pseudopseudohypoparathyroidism."
-date = 2017-01-01
+title = "Pi-FOTA"
+description = ""
+date = 2025-12-05
 [taxonomies]
-tags = ["Honorificabilitudinitatibus"]
-[extra]
-featured = true
+tags = ["Protocol", "Firmware"]
 +++
 
 ![Long Long Man](https://upload.wikimedia.org/wikipedia/en/e/ed/Long_Long_Man.jpeg#end#spoiler)

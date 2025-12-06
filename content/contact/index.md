@@ -7,7 +7,7 @@ katex = true
 
 Message me on either one. Whether you want to talk or you’re just bored, I’m around.
 
-- <a class="external" href="https://example.org">Telegram</a>
+- <a class="external" href="https://t.me/bunnysocks">Telegram</a>
 - <a class="external" href="mailto://hemansakkthivelms14@gmail.com">Mail</a>
 
 

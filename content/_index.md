@@ -9,11 +9,13 @@ title = "Home"
 ```
 {% end %} -->
 
-### Hi, I'm Heman Sakkthivel (@bunnysocks)
+### Hi, I'm Heman Sakkthivel 
 
-Pursuing my **Bachelors of Technology** in `Electronics and Computer Engineering` at *Amrita Vishwa Vidyapeetham*, Kerala.
+(aka. bunnysocks)
 
-Aspiring **Software Engineer** interested in `Backend Development`, currently exploring `Compilers` and `Network Protocols`.
+Pursuing my **Bachelors of Technology** in `Electronics and Computer Engineering` at **Amrita Vishwa Vidyapeetham**, Kerala
 
-In my leisure time, I enjoy `Tinkering Stuffs`, `Reading Books`, and `Sketching` sometimes.
+Aspiring **Software Engineer** interested in Backend Development, currently exploring `Compilers` and `Embedded Systems`
+
+In my leisure time, I enjoy `Tinkering Stuffs`, `Reading Books`, and do `Sketching` sometimes.
 
